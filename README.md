@@ -21,3 +21,8 @@ Here are some ideas to get you started:
   <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
 
+### My Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnibhriain&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rnibhriain&theme=dark&background=000000)](https://git.io/streak-stats)
+
