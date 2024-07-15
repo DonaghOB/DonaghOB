@@ -27,3 +27,12 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DonaghOB&theme=dark&background=000000)](https://git.io/streak-stats)
 
+### Contact me
+<div id="badges">
+  <a href="https://www.linkedin.com/in/róisín-ní-bhriain-8b685429b">
+    <img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:roisinnib@gmail.com">
+    <img alt="Gmail Badge" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"/>
+  </a>
+</div>
