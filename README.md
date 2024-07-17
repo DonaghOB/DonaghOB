@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: dark)" srcset="http://github-readme-streak-stats.herokuapp.com?user=rnibhriain&theme=dark&background=000000" />
   <img alt="Streak" src="http://github-readme-streak-stats.herokuapp.com?user=rnibhriain&theme=default#gh-light-mode-only" />
 </picture>
-<br>
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/donagh-%C3%B3-briain-8629a5294"/>
     <img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   <a href="mailto:donaghobriain5@gmail.com">
     <img alt="Gmail Badge" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
-</div>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DonaghOB/DonaghOB/output/github-contribution-grid-snake-dark.svg" />
