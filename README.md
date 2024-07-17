@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   <img alt="Streak" src="http://github-readme-streak-stats.herokuapp.com?user=rnibhriain&theme=default#gh-light-mode-only" />
 </picture>
 <br>
-### Contact me
+## Contact me
 <div id="badges">
   <a href="https://www.linkedin.com/in/donagh-%C3%B3-briain-8629a5294"/>
     <img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
