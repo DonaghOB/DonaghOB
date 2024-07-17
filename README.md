@@ -28,8 +28,12 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DonaghOB&layout=compact&theme=vision-friendly-dark" />
   <img alt="TopLangs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonaghOB&layout=compact&theme=default#gh-light-mode-only" />
 </picture>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DonaghOB&theme=dark&background=000000)](https://git.io/streak-stats)
+<br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="http://github-readme-streak-stats.herokuapp.com?user=rnibhriain&theme=dark&background=000000" />
+  <img alt="Streak" src="http://github-readme-streak-stats.herokuapp.com?user=rnibhriain&theme=default#gh-light-mode-only" />
+</picture>
 ### Contact me
 <div id="badges">
   <a href="https://www.linkedin.com/in/donagh-%C3%B3-briain-8629a5294"/>
