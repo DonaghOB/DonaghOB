@@ -24,8 +24,10 @@ Here are some ideas to get you started:
 </div>
 
 ### My Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DonaghOB&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DonaghOB&layout=compact&theme=vision-friendly-dark" />
+  <img alt="TopLangs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonaghOB&layout=compact&theme=default#gh-light-mode-only" />
+</picture>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DonaghOB&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ### Contact me
