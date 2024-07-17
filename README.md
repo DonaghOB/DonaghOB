@@ -34,6 +34,7 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: dark)" srcset="http://github-readme-streak-stats.herokuapp.com?user=rnibhriain&theme=dark&background=000000" />
   <img alt="Streak" src="http://github-readme-streak-stats.herokuapp.com?user=rnibhriain&theme=default#gh-light-mode-only" />
 </picture>
+<br>
 ### Contact me
 <div id="badges">
   <a href="https://www.linkedin.com/in/donagh-%C3%B3-briain-8629a5294"/>
