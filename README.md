@@ -32,7 +32,7 @@ Here are some ideas to get you started:
     <img alt="Gmail Badge" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a></div>
    
-### My Stats
+## My Stats:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DonaghOB&layout=compact&theme=vision-friendly-dark" />
   <img alt="TopLangs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonaghOB&layout=compact&theme=default#gh-light-mode-only" />
