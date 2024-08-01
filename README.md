@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 </picture>
 <br>
 
+## Streak:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="http://github-readme-streak-stats.herokuapp.com?user=DonaghOB&theme=dark&background=000000" />
   <img alt="Streak" src="http://github-readme-streak-stats.herokuapp.com?user=DonaghOB&theme=default#gh-light-mode-only" />
