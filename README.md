@@ -22,14 +22,7 @@ Here are some ideas to get you started:
   <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="WordPress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 </div>
-
-### My Stats
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DonaghOB&layout=compact&theme=vision-friendly-dark" />
-  <img alt="TopLangs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonaghOB&layout=compact&theme=default#gh-light-mode-only" />
-</picture>
-<br>
-### Contact me!
+## Contact me!
 <div id="badges">
   <a href="https://www.linkedin.com/in/donagh-%C3%B3-briain-8629a5294"/>
     <img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -38,6 +31,13 @@ Here are some ideas to get you started:
     <img alt="Gmail Badge" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a></div>
     <br>
+### My Stats
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DonaghOB&layout=compact&theme=vision-friendly-dark" />
+  <img alt="TopLangs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonaghOB&layout=compact&theme=default#gh-light-mode-only" />
+</picture>
+<br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="http://github-readme-streak-stats.herokuapp.com?user=DonaghOB&theme=dark&background=000000" />
   <img alt="Streak" src="http://github-readme-streak-stats.herokuapp.com?user=DonaghOB&theme=default#gh-light-mode-only" />
