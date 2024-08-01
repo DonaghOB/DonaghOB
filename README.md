@@ -1,6 +1,6 @@
 # Hi there!! 👋
 ## My name is Donagh Ó Briain!
-
+## Student
 <!--
 **DonaghOB/DonaghOB** is  ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
