@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <dive id="badges"><a href="mailto:donaghobriain5@gmail.com">
     <img alt="Gmail Badge" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a></div>
-    <br>
+   
 ### My Stats
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DonaghOB&layout=compact&theme=vision-friendly-dark" />
