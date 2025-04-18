@@ -6,9 +6,9 @@ Here is some information on me:
 -🔭 I’m currently working on a java game
 - 🌱 I’m currently learning java.net
 - 👯 I’m looking to collaborate on a future game
-- 🤔 I’m looking for help with NOTHING
+- 🤔 I’m looking for help with _*NOTHING*_
 - 💬 Ask me about anything
-- 📫 How to reach me: ...
+- 📫 How to reach me: Through my email or my LinkedIn
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 ## Languages:
