@@ -20,7 +20,7 @@ Here is some information on me:
 
 ## Contact me!
 <div id="badges">
-  <a href="https://www.linkedin.com/in/donagh-%C3%B3-briain-8629a5294"/>
+  <a href="https://www.linkedin.com/in/donagh-o-briain/"/>
     <img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a></div>
   <div id="badges"><a href="mailto:donaghobriain5@gmail.com">
