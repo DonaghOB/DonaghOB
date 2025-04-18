@@ -1,7 +1,7 @@
 # Hi there!! 👋
 ## My name is Donagh Ó Briain!
 
-Here are some ideas to get you started:
+Here is some information on me:
 
 -🔭 I’m currently working on a java game
 - 🌱 I’m currently learning java.net
@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with NOTHING
 - 💬 Ask me about anything
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 ## Languages:
 <div>
