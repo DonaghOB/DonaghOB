@@ -6,7 +6,7 @@ Here is some information on me:
 -🔭 I’m currently working on a java game
 - 🌱 I’m currently learning C
 - 👯 I’m looking to collaborate on a future game
-- 🤔 I’m looking for help with __**NOTHING**__
+- 🤔 I’m looking for help with
 - 💬 Ask me about anything
 - 📫 How to reach me: Through my email or my LinkedIn
 - 😄 Pronouns: He/Him
