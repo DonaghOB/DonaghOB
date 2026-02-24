@@ -10,7 +10,6 @@ Here is some information on me:
 - 💬 Ask me about anything
 - 📫 How to reach me: Through my email or my LinkedIn
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: i code
 ## Languages:
 <div>
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
