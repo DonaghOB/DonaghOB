@@ -10,11 +10,13 @@ Here is some information on me:
 - 💬 Ask me about anything
 - 📫 How to reach me: Through my email or my LinkedIn
 - 😄 Pronouns: He/Him
+  
 ## Languages:
 <div>
   <img alt = "Java Logo" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img alt = "C" src ="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  <img alt = "Bash" src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img alt = "C programming language logo" src ="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+  <img alt = "Bash script logo" src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img alt = "Python logo" src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"
   
 </div>
 
