@@ -1,4 +1,4 @@
-# Hi there!! 👋
+# Dia duit!! 👋
 ## My name is Donagh Ó Briain!
 
 Here is some information on me:
