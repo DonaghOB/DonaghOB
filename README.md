@@ -11,7 +11,7 @@ Here is some information on me:
 - 📫 How to reach me: Through my email or my LinkedIn
 - 😄 Pronouns: He/Him
   
-## Languages:
+## Some languages/tools I have learned:
 <div>
   <img alt = "Java Logo" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img alt = "C programming language logo" src ="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
